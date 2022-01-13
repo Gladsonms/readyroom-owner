@@ -1,5 +1,5 @@
 import "./App.css";
-import { Sigin, Signup, NoMatch } from "./Components";
+import { Sigin, Signup, NoMatch, Navbar } from "./Components";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Home } from "./Pages";
 //import { Signup } from "./Pages";
